@@ -1,4 +1,4 @@
-# ML-for-MSc-372.2.5214
+# BGU-Machine-Learning-Course
 
 Solutions for "Machine Learning for MSc (372.2.5214)" BGU course:
 
